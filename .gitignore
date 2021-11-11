@@ -1,2 +1,2 @@
-robots.txt
-.html
+*.log
+log/
